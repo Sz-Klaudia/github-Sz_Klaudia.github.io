@@ -71,7 +71,7 @@ background-size: cover;
 
 .blockquote::before {
   content: '“';
-  color: rgb(73, 5, 5);
+  color: rgb(112, 9, 9);
   font-size: 60px;
   display: flex;
   flex-direction: column;
@@ -80,7 +80,7 @@ background-size: cover;
 }
 
 .quote {
-  color: rgb(73, 5, 5);
+  color: rgb(112, 9, 9);
    display: flex;
    align-self: center;
 
@@ -88,6 +88,6 @@ background-size: cover;
 
 .greyFont {
   font-family: 'Josefin Sans', sans-serif;
-  color: grey;
+  color: rgb(92, 37, 37);
   list-style-type: square;
 }
